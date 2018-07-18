@@ -1,0 +1,11 @@
+| 2018.07.12 14:31:28.362    INFO | Camera num = 2
+| 2018.07.12 14:31:28.363    INFO | Default camera: Logitech Webcam C930e
+| 2018.07.12 14:31:31.702    INFO | Shader program DrawPicture initialized successfully!
+| 2018.07.12 14:31:31.703    INFO | Shader program DrawGeom2D initialized successfully!
+| 2018.07.12 14:31:31.718    INFO | Shader program PhongSimple initialized successfully!
+| 2018.07.12 14:31:31.719    INFO | Projection Matrix
+1.54652 0 0.0844016 0
+0 2.06203 0.105999 0
+0 0 -1.0002 -2.0002
+0 0 -1 0
+

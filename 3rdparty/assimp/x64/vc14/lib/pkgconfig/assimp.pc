@@ -1,0 +1,11 @@
+prefix=L:/libraries/assimp/sdk/vs2015/x64
+exec_prefix=L:/libraries/assimp/sdk/vs2015/x64/bin
+libdir=L:/libraries/assimp/sdk/vs2015/x64/lib
+includedir=L:/libraries/assimp/sdk/vs2015/x64/include/assimp
+
+Name: Assimp
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 3.3.1
+Libs: -L${libdir} -lassimp
+Libs.private:  
+Cflags: -I${includedir}

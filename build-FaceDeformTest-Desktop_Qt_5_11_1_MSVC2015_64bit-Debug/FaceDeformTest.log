@@ -1,0 +1,12 @@
+| 2018.06.27 10:11:21.005    INFO | Camera num = 2
+| 2018.06.27 10:11:21.006    INFO | Default camera: Logitech Webcam C930e
+| 2018.06.27 10:11:25.090    INFO | Shader program DrawPicture initialized successfully!
+| 2018.06.27 10:11:25.091    INFO | Shader program DrawGeom2D initialized successfully!
+| 2018.06.27 10:11:25.124    INFO | Shader program PhongSimple initialized successfully!
+| 2018.06.27 10:11:25.126    INFO | Projection Matrix
+1.54652 0 0.0844016 0
+0 2.06203 0.105999 0
+0 0 -1.0002 -2.0002
+0 0 -1 0
+
+| 2018.06.27 10:15:02.075   ERROR | in ..\FaceDeformTest\FaceModel.cpp, line 214: Cannot open file E:/AU/build-FaceDeformTest-Desktop_Qt_5_11_1_MSVC2015_64bit-Debug/debug/res/meanface_head_68.lm!
